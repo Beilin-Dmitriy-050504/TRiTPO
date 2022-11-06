@@ -90,16 +90,17 @@
 
 <a name="start_window"/>
 
-Главное окно
+Главное окно  
 ![Стартовое окно](Interface/StartWindow.png "Start page")  
 
 <a name="main_window"/>
 
-Игровое окно
+Игровое окно  
 ![Игровое окно](Interface/MainWindow.png "Main page") 
 
 <a name="end_window"/>
-Конец игры
+
+Конец игры  
 ![Конец игры](Interface/EndWindow.png "End page") 
 
 <a name="user_specifications"/>
