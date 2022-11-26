@@ -15,7 +15,6 @@ private:
 	bool rotate = false;
 public:
 	Block();
-	Block(short* X, short* Y, short type, short dx);
 	void SetBlock();
 	void SetRotate(bool);
 	void SetDx(short);
@@ -27,14 +26,13 @@ public:
 	short GetType();
 	short GetColor();
 	Block& operator=(const Block&);
-	bool operator==(const Block&);
 };
 
 class Field
 {
 public:
-	static const short height = 24; ////высота поля
-	static const short length = 10; ////ширина поля
+	static const short height = 24; ////ГўГ»Г±Г®ГІГ  ГЇГ®Г«Гї
+	static const short length = 10; ////ГёГЁГ°ГЁГ­Г  ГЇГ®Г«Гї
 	short GetField(short, short);
 	void SetField(Block&);
 	void SetField(short, short, short);
