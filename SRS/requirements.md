@@ -28,7 +28,6 @@
 3.1.1.3 [Cохранение очков](#score_save)  
 3.1.1.4 [Ускорение игры](#game_speed)  
 3.1.1.5 [Предугадываение блока](#next_block)
- 
 3.1.2 [Ограничения и исключения](#restrictions_and_exclusions)  
 3.2 [Нефункциональные требования](#non-functional_requirements)  
 3.2.1 [Атрибуты качества](#quality_attributes)  
